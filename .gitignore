@@ -1,2 +1,3 @@
 assets/photo
 # assets/*
+.DS_Store
